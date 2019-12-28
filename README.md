@@ -13,7 +13,7 @@ $ pkg install python2 -y
 
 $ pkg install git
 
-$ git clone https://github.com/kinghacker0/ddos-attack
+$ git clone https://github.com/cyrusblog/DDos-Attack-Termux-.git
 
 $ cd DDoS-Attack
 
